@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eF9mY71xPGhEMVnTRckcVvBesNZQGQnDtor/eDqNWM9qu+noixDF+BxinaFffkP2kU3uQIwtoU10IxWoSc5yQ==",
+  "success": true,
+  "projectFilePath": "/workspaces/HelloDotNetCodeSpaces/FSharpHelloWorld/FSharpHelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

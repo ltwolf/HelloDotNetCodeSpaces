@@ -1,0 +1,15 @@
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net8.0/HelloWorldCodeSpaces
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net8.0/HelloWorldCodeSpaces.deps.json
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net8.0/HelloWorldCodeSpaces.runtimeconfig.json
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net8.0/HelloWorldCodeSpaces.dll
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/bin/Debug/net8.0/HelloWorldCodeSpaces.pdb
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.AssemblyInfoInputs.cache
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.AssemblyInfo.cs
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.csproj.CoreCompileInputs.cache
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.sourcelink.json
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.dll
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/refint/HelloWorldCodeSpaces.dll
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.pdb
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/HelloWorldCodeSpaces.genruntimeconfig.cache
+/workspaces/HelloDotNetCodeSpaces/HelloWorldCodeSpaces/obj/Debug/net8.0/ref/HelloWorldCodeSpaces.dll
